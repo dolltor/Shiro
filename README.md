@@ -1,0 +1,2 @@
+# Shiro
+Shiro Discord bot
